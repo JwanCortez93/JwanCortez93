@@ -2,7 +2,7 @@
 
 Empecé a trabajar a los 16 años como delivery en bicicleta, pasando por mozo y después gerente de turno, mientras empezaba a dar clases particulares. Eventualmente me dediqué a ser profesor hasta que encontré la programación y aprendí por mi cuenta todo lo que necesitaba para decidir que era mi vocación. Desde entonces, hice cursos de Java, Javascript, HTML, CSS hasta que entré a Henry donde aprendí lenguajes y dinámicas mucho más avanzadas.
 
-Toda mi vida la pasé aprendiendo cosas nuevas y tratando de enseñar lo que sé a los demás, me gusta trabajar con gente, escuchar ideas y compartir conocimientos, y nunca escapo de un desafío.
+Toda mi vida la pasé aprendiendo cosas nuevas y tratando de compartir lo que sé a los demás, me gusta trabajar con gente, escuchar ideas e intercambiar conocimientos, y nunca escapo de un desafío.
 
 ¡Sé que te puedo ayudar! Contactame:
 
